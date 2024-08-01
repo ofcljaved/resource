@@ -8,3 +8,4 @@
 - [blushdesign](https://blush.design/collections)
 - [peeps](https://peeps.ui8.net/)
 - [svgs](https://www.svgbackgrounds.com/)
+- [dicebear](https://www.dicebear.com/)
